@@ -1,0 +1,15 @@
+Download Link: https://assignmentchef.com/product/solved-comp1210-activity-00
+<br>
+<table>
+
+ <tbody>
+
+  <tr>
+
+   <td>1.     Understand the GTA’s policies regarding lab.  Also see <em>Guidelines for Lab</em>.2.     Get acquainted with the PCs in Shelby 2119, 2122 and/or 2125 and your account.3.     Opening jGRASP.a.  On a lab machine, click: <strong>Start</strong> &gt; <strong>All Programs</strong> &gt;<strong> CSSE Apps</strong> &gt; <strong>jGRASP</strong> <strong>(menu) </strong>&gt;<strong> jGRASP</strong>Alternatively, click <strong>Start</strong> and enter jgrasp in the search box.b. On your personal machine (assuming you have installed jGRASP and Java JDK):(1)  On Windows, click: <strong>Start</strong> &gt; <strong>All Programs</strong> &gt;<strong> jGRASP</strong> <strong>(menu) </strong>&gt;<strong> jGRASP</strong>)or double-click the jGRASP shortcut on your computer screen.(2)  On Mac OS X personal machine (assuming you have installed jGRASP and Java JDK), click Launchpad, find jGRASP and click to open; or open Spotlight Search and enter jgrasp.4.     jGRASP should take 10 to 30 seconds to open.  After the jGRASP desktop appears on the screen, <u>copy the jGRASP examples to a personal folder (e.g., in My Documents) as follows.  On the jGRASP top menu, click “Tools” &gt; “Copy Example Files” then select the folder where you want the files copied</u>. <em>Note: on your personal computer, the folders will typically be on your C: drive; whereas on a lab computer, the folders will be on your H: drive</em>.5.     Open the <a href="http://www.jgrasp.org/tutorials200/jGRASP_02_Getting_Started.pdf">jGRASP Tutorial 2 <em>Getting Started</em></a> and begin working through sections 2.1 – 2.8 as time permits in lab and then continue working to complete these sections as homework by the next lab.6.     A second source of information about jGRASP is provided by its Help pages.  On the jGRASP menu click on <strong>Help</strong> &gt; <strong>Help Search</strong>. This will bring up a browser window containing the jGRASP Help page with the <strong>Search</strong> selected. At the top of the left pane you can also click <strong>Contents</strong> to see the major subject headings or <strong>Index</strong> to see an alphabetical listing of more detailed topics. For example, click <strong>Search</strong> at the top of the left pane and enter “how to” (without quotes) in the <strong>Search Words</strong> section.  “How To” should appear in the <strong>Matching Words</strong> section.  When you click this, you should see a list of How To items in the <strong>Topics</strong> section.  Clicking on any of these will take you to that topic in the Help pages.7.     Be prepared to demo to your lab instructor the basics of jGRASP that you learned while doing of sections 2.1 – 2.8 in Tutorial 2 <em>Getting Started</em>.  Although this activity is not graded, it is important that you work through the tutorial and understand the material.  If you have difficulty with any part of sections 2.1 – 2.8 in the tutorial, be sure to ask your lab instructor for assistance.</td>
+
+  </tr>
+
+ </tbody>
+
+</table>
